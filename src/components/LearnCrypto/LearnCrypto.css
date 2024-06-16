@@ -1,0 +1,32 @@
+/* LearnCrypto.css */
+.learn-crypto {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section h2 {
+    font-size: 1.5em;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 1em;
+    color: #666;
+  }
+  
+  .section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .section li {
+    font-size: 1em;
+    color: #666;
+  }
+  
